@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Demospinner</string>
+    <string-array name="Division">
+        <item>Rangpur</item>
+        <item>Dhaka</item>
+        <item>Khulna</item>
+        <item>Bogura</item>
+    </string-array>
+
+</resources>
